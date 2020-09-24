@@ -1,4 +1,4 @@
 ## Base Submission
 
-Here is my image: 
-<img src="Images/Base.png" alt="Base Screenshot" width="100" height="100">  
+Here is my image:  
+<img src="Images/Base.png" alt="Base Screenshot" width="200" height="200">  
