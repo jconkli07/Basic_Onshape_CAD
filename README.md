@@ -24,7 +24,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Image
 
-<img src="Images/Base.png" alt="Mount Screenshot" width="200" height="200">
+<img src="Images/Base.png" alt="Base Screenshot" width="200" height="200">
 
 ### Reflection
 
@@ -73,7 +73,7 @@ In this assignment I created a circle 80 mm wide and extruded it. Then I added t
 
 ### Image
 
-<img src="Images/Fork.png" alt="Mount Screenshot" width="200" height="200">
+<img src="Images/Fork.png" alt="Fork Screenshot" width="200" height="200">
 
 ### Reflection
 
@@ -86,13 +86,19 @@ This assignment really helped me get good at making sketches on other objects. I
 
 ### Description
 
+In this assignment I created a trapezoid and used the revolve tool to revolve the sketch to make a wheel-like shape. Then I added an 8mm fillet to the edges.
+
 ### Evidence
 
 [Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
 
 ### Image
 
+<img src="Images/Tire.png" alt="Tire Screenshot" width="200" height="200">
+
 ### Reflection
+
+I had some troube creating the trapezoid, but in the end I figured it out. It was very easy to fillet after all of the practive that I had in the Fork. Symmetric is used to make 2 lines equal distance from a middle line. Trying to dimension distance between 2 non-parallel lines lets you set the angle between them. To make a diameter dimension select a horizontal or vertical centerline, and then select a parallel line in the sketch. Drag dimension across centerline and keep going until dimension doubles.
 
 ---
 
