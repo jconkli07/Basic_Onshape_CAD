@@ -20,7 +20,7 @@ We are creating a caster.
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 ### Evidence
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
 
 ### Image
 
@@ -48,7 +48,7 @@ For the mount I created a square plate (120mm x 120mm) with 4 smaller holes in t
 
 ### Evidence
 
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
 
 ### Image
 
@@ -69,7 +69,7 @@ In this assignment I created a circle 80 mm wide and extruded it. Then I added t
 
 ### Evidence
 
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
 
 ### Image
 
@@ -77,7 +77,7 @@ In this assignment I created a circle 80 mm wide and extruded it. Then I added t
 
 ### Reflection
 
-This assignment really helped me get good at making sketches on other objects. I learned that when you are cutting a hole and you make it "through all" it cuts through all things in its way, even if those things aren't touching the object that it's sketched on. Tangent propogation allows you to create a skirt with the fillet tools. 
+This assignment really helped me get good at making sketches on other objects. I learned that when you are cutting a hole and you make it "through all" it cuts through all things in its way, even if those things aren't touching the object that it's sketched on. Tangent propogation allows you to create a skirt with the fillet tools. I liked being able to do the assignment off of written instructions better than a video.
 
 ---
 
@@ -88,7 +88,7 @@ This assignment really helped me get good at making sketches on other objects. I
 
 ### Evidence
 
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
 
 ### Image
 
@@ -103,7 +103,7 @@ This assignment really helped me get good at making sketches on other objects. I
 
 ### Evidence
 
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
 
 ### Image
 
@@ -118,7 +118,7 @@ This assignment really helped me get good at making sketches on other objects. I
 
 ### Evidence
 
-[The Base in Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
 
 ### Image
 
