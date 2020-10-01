@@ -56,7 +56,7 @@ For the mount I created a square plate (120mm x 120mm) with 4 smaller holes in t
 
 ### Reflection
 
-In the first assignment I had a some trouble creating a linear pattern, but because I worked through it I was able to do it easily this time. Only one direction on a linear pattern makes it just a straight line, if you want it to be something else (like a square for this assignment) you have to add another direction. I also learned the "p" toggles where the planes are hidden or not.
+In the first assignment I had a some trouble creating a linear pattern, but because I worked through it I was able to do it easily this time. Only one direction on a linear pattern makes it just a straight line, if you want it to be something else (like a square for this assignment) you have to add another direction. I also learned the "p" toggles whether the planes are hidden or not.
 
 ---
 
