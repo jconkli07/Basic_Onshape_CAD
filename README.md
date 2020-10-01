@@ -35,9 +35,7 @@ This was my first Onshape part and [following along with Dr. Shields made it sup
 * extruding both add and remove (shortcut key **E**)
 * linear patterns (no shortcut)
 
-Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
-
-After doing this assignment, I felt pretty comfortable with extruding and cutting holes in objects, whereas at the beginning I had some trouble with it.
+Onshape is awesome. It is going to be a GREAT year in engineering. After doing this assignment, I felt pretty comfortable with extruding and cutting holes in objects, whereas at the beginning I had some trouble with it.
 
 ---
 
@@ -45,6 +43,8 @@ After doing this assignment, I felt pretty comfortable with extruding and cuttin
 ## Mount
 
 ### Description
+
+For the mount I created a square plate (120mm x 120mm) with 4 smaller holes in the corners (10mm). I used a linear pattern to make the holes identical. Then we put a circle in the direct center that was 25mm wide and extruded it.
 
 ### Evidence
 
@@ -56,7 +56,7 @@ After doing this assignment, I felt pretty comfortable with extruding and cuttin
 
 ### Reflection
 
-This assignment helped me get better at creating linear patterns, and I also am better at extruding and creating a sketch.
+In the first assignment I had a some trouble creating a linear pattern, but because I worked through it I was able to do it easily this time. Only one direction on a linear pattern makes it just a straight line, if you want it to be something else (like a square for this assignment) you have to add another direction. I also learned the "p" toggles where the planes are hidden or not.
 
 ---
 
@@ -64,6 +64,8 @@ This assignment helped me get better at creating linear patterns, and I also am 
 ## Fork
 
 ### Description
+ 
+In this assignment I created a circle 80 mm wide and extruded it. Then I added two rectangles off of it and cut a hole 10 mm wide through the center of them. Then I added a tube 5 mm wide off of the other side of the cylinder and extruded it 60 mm. Then I used the fillet tool on all of the sharp edges to soften it up and I added a "skirt" to the joining between the cylinder and the rectangles.
 
 ### Evidence
 
@@ -75,7 +77,7 @@ This assignment helped me get better at creating linear patterns, and I also am 
 
 ### Reflection
 
-This assignment helped me learn and become profficient at using the fillet tool.
+This assignment really helped me get good at making sketches on other objects. I learned that when you are cutting a hole and you make it "through all" it cuts through all things in its way, even if those things aren't touching the object that it's sketched on. Tangent propogation allows you to create a skirt with the fillet tools. 
 
 ---
 
