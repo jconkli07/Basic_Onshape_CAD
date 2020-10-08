@@ -20,7 +20,7 @@ We are creating a caster.
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 ### Evidence
-[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/5e8e1a14726b456f30be3213)
 
 ### Image
 
@@ -48,7 +48,7 @@ For the mount I created a square plate (120mm x 120mm) with 4 smaller holes in t
 
 ### Evidence
 
-[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/5e8e1a14726b456f30be3213)
 
 ### Image
 
@@ -69,7 +69,7 @@ In this assignment I created a circle 80 mm wide and extruded it. Then I added t
 
 ### Evidence
 
-[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/5e8e1a14726b456f30be3213)
 
 ### Image
 
@@ -90,7 +90,7 @@ In this assignment I created a trapezoid and used the revolve tool to revolve th
 
 ### Evidence
 
-[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/5e8e1a14726b456f30be3213)
 
 ### Image
 
@@ -107,13 +107,19 @@ I had some troube creating the trapezoid, but in the end I figured it out. It wa
 
 ### Description
 
+In this assignment I created a wheel to go to our tire. I made a sketch using diameter dimension and extruded it to fit into the tire. Then, I cut holes into the wheel to make spokes. I added a 4mm fillet to the corners of the spokes, and a 1mm fillet to the whole surface of the wheel.
+
 ### Evidence
 
-[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/5e8e1a14726b456f30be3213)
 
 ### Image
 
+<img src="Images/Wheel.png" alt="Wheel Screenshot" width="200" height="200">
+
 ### Reflection
+
+The last assignment helped me a lot with this assignment. Because I already knew how to make a diameter dimension and how to dimesnion angles, this was pretty easy. I have to remember that symmetrical makes 2 things equal distance from a center thing. Also, it was a nice refresher on fillet, as I had forgotten a little about them. Center point arcs make an arc that is a specified a length a specific distance away from a centerpoint.
 
 ---
 
