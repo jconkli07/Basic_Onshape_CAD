@@ -128,6 +128,8 @@ The last assignment helped me a lot with this assignment. Because I already knew
 
 ### Description
 
+For this assignment I first created a tube 4mm think and extruded it 120mm. Then I cut the very ends to be flat. Then I made another tube that went around the end of the first tube, and cut a 3mm hole through the middle of that tube. Then, I went into the Tire/Wheel part that I had previously made and made an additional tube, but this one was an exact extension of the hole through the center of the Wheel. I extruded it 5mm. Then, I opened a blank part and made another tube that was 10mm wide and extruded it 5mm.
+
 ### Evidence
 
 [Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/6ab31af2a83ea11aa6d2b0b8)
@@ -139,5 +141,7 @@ The last assignment helped me a lot with this assignment. Because I already knew
 <img src="Images/Washer.png" alt="Washer Screenshot" width="200" height="200">
 
 ### Reflection
+
+After all of this practice with making tubes I am very good at quickly sketching and extruding. I need to remember that adding a merge scope to a removal makes it so that the removal only affects that object. I also learned that in a sketch the use button lets you put a feature that is in another sketch or extrude into the sketch that you are working on. Besides for these 2 things everything else I already had done a bunch so it wasn't too hard.
 
 ---
