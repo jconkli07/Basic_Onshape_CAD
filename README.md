@@ -151,7 +151,7 @@ After all of this practice with making tubes I am very good at quickly sketching
 
 ### Description
 
-
+In this assignment I learned how to use mates to assemble parts. First, I used a fastened mate to put the wheel at the origin, then I used another fastened mate to center the tire around the wheel. Then I used a revolute mate to put the axle through the center of the wheel, and finally I used 2 revolute mates to mate the bearings to either side of the wheel, around the axle. Because I used revolute mates on the bearings and axle, they could spin freely within the wheel, letting me see how they would turn in real life.
 
 ### Evidence
 [Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/72261c29d9022e5bb663bbdf)
@@ -162,6 +162,6 @@ After all of this practice with making tubes I am very good at quickly sketching
 
 ### Reflection
 
-
+I learned a lot about Onshape mates and assemblies in this assignment. I now feel comfortable inserting parts into assemblies and using the revolute and fastened mates. The revolute mate fixes something in place, but lets it rotate around one axis. A fastened mate completely restricts all movement, and locks 2 points together in a way that the objects cannot move or rotate seperate from each other. So far I like using assemblies, I am excited to get to the final assembly assignment.
 
 ---
