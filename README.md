@@ -12,6 +12,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub-Assembly](#Sub-Assembly)
 
 ## Base
 
@@ -143,5 +144,24 @@ For this assignment I first created a tube 4mm think and extruded it 120mm. Then
 ### Reflection
 
 After all of this practice with making tubes I am very good at quickly sketching and extruding. I need to remember that adding a merge scope to a removal makes it so that the removal only affects that object. I also learned that in a sketch the use button lets you put a feature that is in another sketch or extrude into the sketch that you are working on. Besides for these 2 things everything else I already had done a bunch so it wasn't too hard.
+
+---
+
+## Sub-Assembly
+
+### Description
+
+
+
+### Evidence
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/72261c29d9022e5bb663bbdf)
+
+### Image
+
+<img src="Images/Sub-Assembly.png" alt="Sub-Assembly Screenshot" width="200" height="200">
+
+### Reflection
+
+
 
 ---
