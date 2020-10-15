@@ -13,6 +13,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
+* [Final Assembly](#Final Assembly)
 
 ## Base
 
@@ -163,5 +164,24 @@ In this assignment I learned how to use mates to assemble parts. First, I used a
 ### Reflection
 
 I learned a lot about Onshape mates and assemblies in this assignment. I now feel comfortable inserting parts into assemblies and using the revolute and fastened mates. The revolute mate fixes something in place, but lets it rotate around one axis. A fastened mate completely restricts all movement, and locks 2 points together in a way that the objects cannot move or rotate seperate from each other. So far I like using assemblies, I am excited to get to the final assembly assignment.
+
+---
+
+## Final Assembly
+
+### Description
+
+
+
+### Evidence
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/a96a7e1040c9177e616abf62)
+
+### Image
+
+<img src="Images/Final Assembly.png" alt="Final Assembly Screenshot" width="200" height="200">
+
+### Reflection
+
+
 
 ---
