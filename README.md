@@ -171,7 +171,7 @@ I learned a lot about Onshape mates and assemblies in this assignment. I now fee
 
 ### Description
 
-
+In this assignment I made an assembly and added in the base, mount, fork, washer, and wheel sub-assembly. I used fastened and revolute mates to mate these the way that they would be in real life. Then I added in screws to show where screws would go if it was assembled in real life. The end result was a castor wheel fully assembled, using all of the parts that I hd made previously.
 
 ### Evidence
 [Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/a96a7e1040c9177e616abf62)
@@ -182,6 +182,6 @@ I learned a lot about Onshape mates and assemblies in this assignment. I now fee
 
 ### Reflection
 
-
+I really liked this assignment, it was cool to see everything come together. Also, I had an easier time mating with the fastened and revolute mates because I had practiced it a lot in the sub-assembly. To insert a screw or other similar part, go to Insert, then click on Standard Content, then select the measurement type (ISO, ANSI Inch, etc.),the part type (Nuts, Bolts and Screws, etc), the specific screw/nut/pin (ex. Hex socket head cap screw ISO 4762), and finally select the size and length of the component. Then you can insert it into the assembly, and it will snap to holes and other things which means that you usually don't need to mate the screws. After this assignment I feel very comfortable with creating and editing Onshape assemblies.
 
 ---
