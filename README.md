@@ -13,7 +13,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
-* [Final Assembly](#Final Assembly)
+* [FinalAssembly](#FinalAssembly)
 
 ## Base
 
@@ -167,7 +167,7 @@ I learned a lot about Onshape mates and assemblies in this assignment. I now fee
 
 ---
 
-## Final Assembly
+## FinalAssembly
 
 ### Description
 
