@@ -187,30 +187,21 @@ I really liked this assignment, it was cool to see everything come together. Als
 
 ---
 
---
-
 ## Base
 
 ### Description
 
-The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+
 
 ### Evidence
-[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/5e8e1a14726b456f30be3213)
+[Link to Onshape](https://cvilleschools.onshape.com/documents/8ff8923d67822e4f3af7c370/w/5c9eab416e835a375bc55336/e/f7efc0be414c8a0f8fb6cfba)
 
 ### Image
 
-<img src="Images/Base.png" alt="Base Screenshot" width="200" height="200">
+<img src="Images/Dorothy's Dowel Pins.png" alt="Frame Assembly Screenshot" width="200" height="200">
 
 ### Reflection
 
-This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
-* sketching (shortcut **shift-s**)
-* constructions lines (shortcut **Q**)
-* dimensions (shortcut **D**)
-* extruding both add and remove (shortcut key **E**)
-* linear patterns (no shortcut)
 
-Onshape is awesome. It is going to be a GREAT year in engineering. After doing this assignment, I felt pretty comfortable with extruding and cutting holes in objects, whereas at the beginning I had some trouble with it.
 
 ---
