@@ -14,6 +14,7 @@ We are creating a caster.
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
 * [Final Assembly](#Final-Assembly)
+* [Dorothy's Dowel Pins](#Dorothy's-Dowel-Pins)
 
 ## Base
 
@@ -183,5 +184,33 @@ In this assignment I made an assembly and added in the base, mount, fork, washer
 ### Reflection
 
 I really liked this assignment, it was cool to see everything come together. Also, I had an easier time mating with the fastened and revolute mates because I had practiced it a lot in the sub-assembly. To insert a screw or other similar part, go to Insert, then click on Standard Content, then select the measurement type (ISO, ANSI Inch, etc.),the part type (Nuts, Bolts and Screws, etc), the specific screw/nut/pin (ex. Hex socket head cap screw ISO 4762), and finally select the size and length of the component. Then you can insert it into the assembly, and it will snap to holes and other things which means that you usually don't need to mate the screws. After this assignment I feel very comfortable with creating and editing Onshape assemblies.
+
+---
+
+--
+
+## Base
+
+### Description
+
+The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
+
+### Evidence
+[Link to Onshape](https://cvilleschools.onshape.com/documents/e1c8a17c4a69732c5bb9e3c6/w/10366582a3f14d4162af59ea/e/5e8e1a14726b456f30be3213)
+
+### Image
+
+<img src="Images/Base.png" alt="Base Screenshot" width="200" height="200">
+
+### Reflection
+
+This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
+* sketching (shortcut **shift-s**)
+* constructions lines (shortcut **Q**)
+* dimensions (shortcut **D**)
+* extruding both add and remove (shortcut key **E**)
+* linear patterns (no shortcut)
+
+Onshape is awesome. It is going to be a GREAT year in engineering. After doing this assignment, I felt pretty comfortable with extruding and cutting holes in objects, whereas at the beginning I had some trouble with it.
 
 ---
