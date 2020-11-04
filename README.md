@@ -14,7 +14,7 @@ We are creating a caster.
 * [AxleCollarBearings](#AxleCollarBearings)
 * [Sub-Assembly](#Sub-Assembly)
 * [Final Assembly](#Final-Assembly)
-* [Dorothy's Dowel Pins](#Dorothy's-Dowel-Pins)
+* [Dowel Pins and Picture Frame](#Dowel-Pins-and-Picture-Frame)
 
 ## Base
 
@@ -187,7 +187,7 @@ I really liked this assignment, it was cool to see everything come together. Als
 
 ---
 
-## Dorothy's Dowel Pins
+## Dowel Pins and Picture Frame
 
 ### Description
 
