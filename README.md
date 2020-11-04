@@ -1,8 +1,6 @@
 
 # BasicCAD
 
-We are creating a caster.
-
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
@@ -191,7 +189,7 @@ I really liked this assignment, it was cool to see everything come together. Als
 
 ### Description
 
-frs
+In this assignment I first created a singular dowel pin, and then turned it itno a configuration with length, width, and chamfer as options. Then I made a trapezoid with holes in the angled sides and made a configuration of that with only 2 configurations, one with a longer length and one with a shorter length. Then I made an assembly that attached those trapezoids with dowel pins to make a picture frame.
 
 ### Evidence
 [Link to Onshape](https://cvilleschools.onshape.com/documents/8ff8923d67822e4f3af7c370/w/5c9eab416e835a375bc55336/e/f7efc0be414c8a0f8fb6cfba)
@@ -202,6 +200,6 @@ frs
 
 ### Reflection
 
-
+Configurations are very useful for making it easy to create a lot of similar parts. To make a configuration, first go to the tabs on the far right and click on configurations panel. Then make a list configuration. Add names for the different values (lengths, diameters, etc.), then click configure features to actually select which feature that will be used. Enter the values for that feature that correspond to the name. Then, If you want to configure more than one value, click add configuration input at the bottom and start the whole process over. Configurations let you easily insert or swap between different sizes, shapes, etc. of a part.
 
 ---
